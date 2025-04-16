@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
 |  |
@@ -13,5 +14,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
