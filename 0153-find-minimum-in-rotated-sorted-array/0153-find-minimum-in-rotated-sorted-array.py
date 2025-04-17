@@ -1,24 +1,17 @@
+from typing import List
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        n = len(nums)
-        s = []
-        pivot = 0
-        for i in range(n - 1):
-            if nums[i] > nums[i + 1]:
-                pivot = i + 1
-                s.extend(nums[pivot:])    
-                s.extend(nums[:pivot])    
-        if not s:
-            s = nums[:]
-        # l, r = 0, n - 1
-        # while l <= r:
-        #     m = (l + r) // 2
-        #     if s[m] == target:
-        #         return True
-        #     elif s[m] < target:
-        #         l = m + 1
-        #     else:
-        #         r = m - 1
+        left, right = 0, len(nums) - 1
 
-        return s[0]
-        
+        while left < right:
+            mid = (left + right) // 2
+
+            # If mid element is greater than the rightmost,
+            # the min must be in the right half
+            if nums[mid] > nums[right]:
+                left = mid + 1
+            else:
+                right = mid  # min is at mid or to the left
+
+        return nums[left]
