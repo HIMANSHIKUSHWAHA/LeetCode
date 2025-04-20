@@ -7,6 +7,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
