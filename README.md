@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0069-sqrtx) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
