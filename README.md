@@ -98,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Recursion
