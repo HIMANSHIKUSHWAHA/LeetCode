@@ -15,6 +15,7 @@
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2048-build-array-from-permutation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2249-count-the-hidden-sequences](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -132,4 +133,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
