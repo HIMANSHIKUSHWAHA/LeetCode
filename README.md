@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -71,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -82,6 +86,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
