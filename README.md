@@ -117,6 +117,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Recursion
 |  |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Prefix Sum
 |  |
 | ------- |
