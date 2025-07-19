@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -71,6 +73,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
