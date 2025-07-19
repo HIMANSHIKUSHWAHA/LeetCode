@@ -17,6 +17,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Counting
 |  |
@@ -159,4 +161,12 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
