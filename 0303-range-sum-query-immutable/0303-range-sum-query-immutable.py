@@ -6,7 +6,6 @@ class NumArray:
 
     def sumRange(self, left: int, right: int) -> int:
         sums = 0
-
         for i in range(left, right + 1):
             sums += self.nums[i]
         
