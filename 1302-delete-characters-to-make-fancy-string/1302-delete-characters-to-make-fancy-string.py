@@ -1,14 +1,22 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        res = []
-        for char in s:
-            if len(res) >= 2 and res[-1] == res[-2] == char:
+        if len(s) < 3:
+            return s
+        
+        prev = s[0]
+        answer = []
+        answer.append(s[0])
+        flag = False
+        for c in s[1:]:
+            if prev != c:
+                prev = c
+                answer.append(c)
+                flag = False
                 continue
-            res.append(char)
-        return ''.join(res)
+            if flag is False:
+                answer.append(c)
+                flag = True
+        return "".join(answer)
 
-        
-        
-
-    
+            
         
