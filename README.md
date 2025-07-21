@@ -98,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0125-valid-palindrome) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
