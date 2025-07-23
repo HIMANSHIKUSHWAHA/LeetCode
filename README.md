@@ -36,6 +36,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
 |  |
 | ------- |
