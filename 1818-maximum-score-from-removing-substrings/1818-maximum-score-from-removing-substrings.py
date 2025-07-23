@@ -1,23 +1,29 @@
 class Solution:
     def maximumGain(self, s: str, x: int, y: int) -> int:
+        # Prioritize higher scoring pair
         if x > y:
-            return self.getMax(s, 'a', 'b', x, y)
+            return self.calculate_score(s, 'a', 'b', x, y)
         else:
-            return self.getMax(s, 'b', 'a', y, x)
-        
-    def getMax(self, s: str, a:str, b:str, x: int, y: int):
-        c1 = c2 = ans = 0
-        s += 'c'
-        for c in s:
-            if c == a:
-                c1 += 1
-            elif c == b:
-                if c1 == 0:
-                    c2 += 1
+            return self.calculate_score(s, 'b', 'a', y, x)
+
+    def calculate_score(self, s: str, first: str, second: str, high: int, low: int) -> int:
+        count_first = count_second = score = 0
+        s += '!'  # Sentinel to trigger final score flush
+
+        for char in s:
+            if char == first:
+                count_first += 1
+            elif char == second:
+                if count_first > 0:
+                    # Found a valid high-value pair
+                    count_first -= 1
+                    score += high
                 else:
-                    ans += x
-                    c1 -= 1
+                    # Not enough `first`, store `second` for later
+                    count_second += 1
             else:
-                ans += y * min(c1, c2)
-                c1 = c2 = 0
-        return ans
+                # For leftover mismatched `first` and `second`, do low-value pairing
+                score += low * min(count_first, count_second)
+                count_first = count_second = 0
+
+        return score
