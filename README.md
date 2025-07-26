@@ -161,6 +161,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -232,4 +233,8 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
