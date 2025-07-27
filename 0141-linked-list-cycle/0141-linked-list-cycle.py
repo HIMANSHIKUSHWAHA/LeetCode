@@ -7,12 +7,18 @@ __import__("atexit").register(lambda: open("display_runtime.txt","w").write("0")
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        seen=set()
-        curr=head
-        while curr:
-            if curr in seen:
+        # seen=set()
+        # curr=head
+        # while curr:
+        #     if curr in seen:
+        #         return True
+        #     seen.add(curr)
+        #     curr=curr.next
+        # return False
+        slow, fast=head, head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+            if slow == fast:
                 return True
-            seen.add(curr)
-            curr=curr.next
         return False
-        
