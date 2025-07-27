@@ -208,6 +208,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -232,6 +233,7 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
