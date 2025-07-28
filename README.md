@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@
 | [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0015-3sum) |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -133,6 +136,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -281,10 +285,12 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -319,4 +325,12 @@
 | [0098-validate-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
