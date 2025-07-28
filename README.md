@@ -30,6 +30,7 @@
 | [2048-build-array-from-permutation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2249-count-the-hidden-sequences](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -148,10 +149,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Dynamic Programming
 |  |
@@ -246,6 +249,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
