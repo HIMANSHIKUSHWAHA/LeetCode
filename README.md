@@ -37,6 +37,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -71,6 +72,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -85,6 +87,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -162,6 +165,7 @@
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
 | ------- |
