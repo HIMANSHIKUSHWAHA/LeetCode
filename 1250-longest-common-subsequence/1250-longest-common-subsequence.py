@@ -3,7 +3,7 @@ class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         if text1==text2:
             return len(text1)
-        @lru_cache(maxsize=None)
+        # @lru_cache(maxsize=None)
         def longcomsub(i, j):
             if i==len(text1) or j==len(text2):
                 return 0
