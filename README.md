@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -246,6 +248,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Function
