@@ -1,11 +1,12 @@
+from itertools import groupby
+
 class Solution:
-    def longestSubarray(self, nums):
-        max_val = max(nums)
-        max_len = cur = 0
-        for num in nums:
-            if num == max_val:
-                cur += 1
-                max_len = max(max_len, cur)
-            else:
-                cur = 0
-        return max_len
+    def longestSubarray(self, nums: List[int]) -> int:
+        max_ = max(nums)
+
+        return max(
+            len(list(values))
+            for key, values in groupby(nums)
+            if key == max_
+        )
+        
