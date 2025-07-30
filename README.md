@@ -39,6 +39,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -171,6 +172,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
