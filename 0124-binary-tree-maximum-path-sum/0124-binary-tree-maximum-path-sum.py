@@ -7,16 +7,15 @@
 __import__("atexit").register(lambda: open("display_runtime.txt","w").write("0"))
 class Solution:
     def maxPathSum(self, root):
-        max_sum = [float('-inf')]  # use list to allow mutation inside dfs()
-
+        self.max_global=float('-inf')
         def dfs(node):
             if not node:
                 return 0
-            left = max(dfs(node.left), 0)
-            right = max(dfs(node.right), 0)
-            max_sum[0] = max(max_sum[0], node.val + left + right)
-            return node.val + max(left, right)
-
+            left_max=max(dfs(node.left), 0)
+            right_max=max(dfs(node.right), 0)
+            dfs_local_max_val= node.val + left_max + right_max
+            self.max_global=max(self.max_global, dfs_local_max_val)
+            return node.val + max(left_max, right_max)
         dfs(root)
-        return max_sum[0]
-        
+        return self.max_global
+      
