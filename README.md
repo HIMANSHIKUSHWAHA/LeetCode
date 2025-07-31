@@ -58,6 +58,7 @@
 | [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -273,6 +274,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
@@ -313,6 +315,7 @@
 | [0061-rotate-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
@@ -372,4 +375,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
