@@ -22,6 +22,7 @@
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -186,6 +188,7 @@
 | [0070-climbing-stairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
