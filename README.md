@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -118,6 +119,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0125-valid-palindrome) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
