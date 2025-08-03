@@ -1,29 +1,30 @@
-from bisect import bisect_left, bisect_right
-
 class Solution:
     def maxTotalFruits(self, fruits: List[List[int]], startPos: int, k: int) -> int:
-        pos = [f[0] for f in fruits]
-        pre = [0]
-        for _, amt in fruits:
-            pre.append(pre[-1] + amt)
+        # 1. subarray [start, end], abs(startPos - start) + end - start <= k
+        # 2. from begin, the most left fruits can be select is in startPos - k
+        # 3. when move right, each right +1, and left += 2
 
-        def get_sum(l, r):
-            # Return sum of fruits from position l to r inclusive
-            left = bisect_left(pos, l)
-            right = bisect_right(pos, r)
-            return pre[right] - pre[left]
+        max_res = 0
+        left = bisect.bisect_left(fruits, [startPos - k, float("-inf")]) # >=
+        right = bisect.bisect_right(fruits, [startPos, float("inf")]) # >
 
-        res = 0
-        # Try going left first, then right
-        for x in range(k + 1):
-            left = startPos - x
-            right = startPos + max(k - 2 * x, 0)
-            res = max(res, get_sum(left, right))
 
-        # Try going right first, then left
-        for x in range(k + 1):
-            right = startPos + x
-            left = startPos - max(k - 2 * x, 0)
-            res = max(res, get_sum(left, right))
+        curr_subarray_sum = sum([fruits[i][1] for i in range(left, right)])
+        max_res = curr_subarray_sum
 
-        return res
+        for i in range(right, len(fruits)):
+            curr_subarray_sum += fruits[i][1]
+            right_loc = fruits[i][0]
+
+            if right_loc - startPos > k:
+                break
+
+            while min(abs(right_loc - startPos), abs(startPos- fruits[left][0])) + right_loc - fruits[left][0] > k:
+                curr_subarray_sum -= fruits[left][1]
+                left += 1
+            max_res = max(max_res, curr_subarray_sum)
+        
+        return max_res
+
+
+            
