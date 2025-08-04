@@ -1,36 +1,32 @@
 class Solution:
-    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, suffix: str) -> int:
-        from functools import lru_cache
+    def numberOfPowerfulInt(self, start: int, finish: int, limit: int, s: str) -> int:
+        def count(val: int) -> int:
+            chakra = str(val)  # Chakra flow string
+            n = len(chakra) - len(s)  # How much room left for chakra prefix
 
-        suffix_len = len(suffix)
-        suffix_num = int(suffix)
+            if n < 0:
+                return 0  # Not enough space to include suffix
 
-        def count_valid(number_str):
-            n = len(number_str)
+            # dp[i][tight] = number of valid chakra flows from index i
+            dp = [[0] * 2 for _ in range(n + 1)]
 
-            @lru_cache(None)
-            def dp(pos, tight):
-                if pos == n:
-                    return 1
-                res = 0
-                if pos >= n - suffix_len:
-                    digit = int(suffix[pos - (n - suffix_len)])
-                    if tight and digit > int(number_str[pos]):
-                        return 0
-                    if digit <= limit:
-                        res += dp(pos + 1, tight and digit == int(number_str[pos]))
+            # Base case: formed entire prefix, check suffix compatibility
+            dp[n][0] = 1
+            dp[n][1] = int(chakra[n:] >= s)
+
+            # Fill DP table from back to front
+            for i in range(n - 1, -1, -1):
+                digit = int(chakra[i])
+
+                # Not tight → any digit from 0 to limit
+                dp[i][0] = (limit + 1) * dp[i + 1][0]
+
+                # Tight case → we must respect current digit
+                if digit <= limit:
+                    dp[i][1] = digit * dp[i + 1][0] + dp[i + 1][1]
                 else:
-                    upper = int(number_str[pos]) if tight else limit
-                    for d in range(0, upper + 1):
-                        if d <= limit:
-                            res += dp(pos + 1, tight and d == int(number_str[pos]))
-                return res
+                    dp[i][1] = (limit + 1) * dp[i + 1][0]
 
-            return dp(0, True)
+            return dp[0][1]
 
-        def calc(u):
-            if u < suffix_num:
-                return 0
-            return count_valid(str(u))
-
-        return calc(finish) - calc(start - 1)
+        return count(finish) - count(start - 1)
