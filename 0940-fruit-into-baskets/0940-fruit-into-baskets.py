@@ -1,9 +1,6 @@
 from collections import defaultdict
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
-
-from collections import defaultdict
 class Solution:
-
     def isOverfill(self,map):
         count=0
         for elem in map.values():
@@ -11,13 +8,9 @@ class Solution:
                 count+=1
         return True if count>2 else False
     def totalFruit(self, fruits: List[int]) -> int:
-
         l,r=0,0
-
         maxz=0
-
         mapz=defaultdict(int)
-
         for r in range(0,len(fruits)):
             fruit=fruits[r]
             mapz[fruit]+=1
@@ -29,10 +22,8 @@ class Solution:
                     mapz.pop(fruit,None)
                 overfill=self.isOverfill(mapz)
                 l+=1
-
             if not overfill:
                 maxz=max(r-l+1,maxz)
-        
         return maxz
             
             
