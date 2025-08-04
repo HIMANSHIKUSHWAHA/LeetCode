@@ -78,6 +78,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
