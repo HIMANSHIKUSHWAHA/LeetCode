@@ -217,6 +217,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0416-partition-equal-subset-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -285,6 +286,7 @@
 | [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -322,6 +324,7 @@
 | [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
@@ -382,6 +385,7 @@
 | [0226-invert-binary-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -393,6 +397,7 @@
 | [0098-validate-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 ## Bucket Sort
 |  |
 | ------- |
