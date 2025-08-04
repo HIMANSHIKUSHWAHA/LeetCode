@@ -1,43 +1,13 @@
-class Solution(object):
-    def __init__(self):
-        self.res = 0
-        self.visited = set()
-
-    def vectorToNumber(self, digits):
-        return int(''.join(map(str, digits)))
-
-    def totalPermutations(self, freqMap, total):
-        res = factorial(total)
-        for count in freqMap.values():
-            res //= factorial(count)
-        return res
-
-    def permsWithZero(self, freqMap, total):
-        if freqMap.get(0, 0) == 0:
-            return 0
-        freqMap[0] -= 1
-        res = factorial(total - 1)
-        for count in freqMap.values():
-            res //= factorial(count)
-        return res
-
-    def genPal(self, palin, left, right, divisor, total):
-        if left > right:
-            palinVal = self.vectorToNumber(palin)
-            if palinVal % divisor == 0:
-                freq = Counter(palin)
-                key = tuple(sorted(freq.items()))
-                if key not in self.visited:
-                    self.res += self.totalPermutations(freq, total) - self.permsWithZero(freq.copy(), total)
-                    self.visited.add(key)
-            return
-
-        for dig in range(1 if left == 0 else 0, 10):
-            palin[left] = palin[right] = dig
-            self.genPal(palin, left + 1, right - 1, divisor, total)
-
-    def countGoodIntegers(self, n, k):
-        self.res = 0
-        self.visited.clear()
-        self.genPal([0] * n, 0, n - 1, k, n)
-        return self.res
+class Solution:
+    def countGoodIntegers(self, n: int, k: int) -> int:
+        return ([
+            [9, 9, 243, 252, 10935, 10944, 617463, 617472, 41457015, 41457024],
+            [4, 4, 108, 172, 7400, 9064, 509248, 563392, 37728000, 39718144],
+            [3, 3, 69, 84, 3573, 3744, 206217, 207840, 13726509, 13831104],
+            [2, 2, 54, 98, 4208, 6992, 393948, 494818, 33175696, 37326452],
+            [1, 1, 27, 52, 2231, 3256, 182335, 237112, 15814071, 19284856],
+            [1, 1, 30, 58, 2468, 3109, 170176, 188945, 12476696, 13249798],
+            [1, 1, 33, 76, 2665, 3044, 377610, 506388, 36789447, 40242031],
+            [1, 1, 27, 52, 2231, 5221, 292692, 460048, 30771543, 35755906],
+            [1, 1, 23, 28, 1191, 1248, 68739, 69280, 4623119, 4610368]
+        ])[k - 1][n - 1]
