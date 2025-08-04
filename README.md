@@ -117,6 +117,7 @@
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Counting
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
