@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0015-3sum) |
@@ -105,6 +106,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -379,6 +381,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
