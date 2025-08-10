@@ -77,6 +77,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -133,6 +134,7 @@
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -170,6 +172,7 @@
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -202,6 +205,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -369,6 +373,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
