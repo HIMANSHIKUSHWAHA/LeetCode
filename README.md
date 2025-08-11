@@ -51,6 +51,7 @@
 | [2479-meeting-rooms-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -238,6 +239,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2529-range-product-queries-of-powers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
