@@ -1,20 +1,20 @@
 class Solution {
 public:
-    vector<int> productQueries(int n, vector<vector<int>>& queries) {
-        int m = 1e9+7;
-        vector<int> bint, ans;
-        //create power array 
-        for(int i = 0; i < 32; ++i){
-            if((n & (1<<i)) != 0) bint.push_back(1<<i);
+    vector<int> productQueries(int n, const vector<vector<int>>& queries) {
+        constexpr int MOD = 1000000007;
+        vector prefix {0};
+        while (n) {
+            const int j = __builtin_ctz(n);
+            prefix.push_back(prefix.back() + j);
+            n -= 1 << j;
         }
-        for(auto q: queries){
-            int i = q[0];
-            long p = bint[i++];
-            while(i <= q[1]){
-                p = (p * bint[i++])%m;
-            }
-            ans.push_back(p);
-        }
-        return ans;
+        n = prefix.back();
+        vector ans {1}; ans.reserve(n);
+        for (int i = 1; i <= n; i++)
+            ans.push_back((ans.back() << 1) % MOD);
+        vector<int> ret; ret.reserve(queries.size());
+        for (const auto& q : queries)
+            ret.push_back(ans[prefix[q[1] + 1] - prefix[q[0]]]);
+        return ret;
     }
 };
