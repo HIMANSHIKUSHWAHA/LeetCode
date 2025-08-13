@@ -133,6 +133,7 @@
 | [0069-sqrtx](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -272,6 +273,7 @@
 | [0143-reorder-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
