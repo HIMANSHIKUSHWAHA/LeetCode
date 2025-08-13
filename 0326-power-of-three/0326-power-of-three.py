@@ -1,6 +1,9 @@
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
-        e=log(1<<31)/log(3)//1
-        N=pow(3, e)
-        return n>0 and N%n==0
+        if n<=0: return False
+        while n>1:
+            if n%3==0: n=n//3
+            else:
+                return False
+        return True
         
