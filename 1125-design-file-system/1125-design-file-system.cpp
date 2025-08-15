@@ -1,53 +1,21 @@
 class FileSystem {
-    struct Trie {
-        int val;
-        unordered_map<string, shared_ptr<Trie>> map;
-    };
-    shared_ptr<Trie> root;
 public:
-    FileSystem() {
-        root = make_shared<Trie>();
-    }
+  bool createPath(const string& path, int value) {
+    auto parent = path.substr(0, path.rfind('/'));
+    if (!parent.empty() && !paths.count(parent))
+      return false;
+    return paths.emplace(path, value).second;
+  }
     
-    bool createPath(string path, int value) {
-        istringstream iss{path};
-        string folder;
-        string prevFolder;
-        shared_ptr<Trie> cur = root;
-        shared_ptr<Trie> prev;
-        bool newPath = false;
-        getline(iss, folder, '/');
-        while (getline(iss, folder, '/')) {
-            if (cur->map.find(folder) == cur->map.end()) {
-                cur->map[folder] = make_shared<Trie>(-1);
-                if (newPath) {
-                    prev->map.erase(prevFolder);
-                    return false;
-                }
-                newPath = true;
-            }
-            prevFolder = folder;
-            prev = cur;
-            cur = cur->map[folder];
-        }
-        if (!newPath) return false;
-        cur->val = value;
-        return true;
-    }
-    
-    int get(string path) {
-        istringstream iss{path};
-        string folder;
-        shared_ptr<Trie> cur = root;
-        getline(iss, folder, '/');
-        while (getline(iss, folder, '/')) {
-            if (cur->map.find(folder) == cur->map.end()) {
-                return -1;
-            }
-            cur = cur->map[folder];
-        }
-        return cur->val;
-    }
+  int get(const string& path) {
+    auto it = paths.find(path);
+    if (it == paths.end())
+      return -1;
+    return it->second;
+  }
+  
+private:
+  unordered_map<string, int> paths;
 };
 
 /**
