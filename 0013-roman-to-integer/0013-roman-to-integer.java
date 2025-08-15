@@ -1,24 +1,29 @@
-import java.util.*;
-
 class Solution {
     public int romanToInt(String s) {
-        Map<Character, Integer> map = Map.of(
-            'I', 1, 'V', 5, 'X', 10,
-            'L', 50, 'C', 100, 'D', 500, 'M', 1000
-        );
+     int[] integer = new int[26];
+     integer['I'-'A']= 1;
+     integer['V'-'A']= 5;
+     integer['X'-'A']= 10;
+     integer['L'-'A']= 50;
+     integer['C'-'A']=100;
+     integer['D'-'A']=500;
+     integer['M'-'A']=1000;
 
-        int result = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int curr = map.get(s.charAt(i));
-            int next = (i + 1 < s.length()) ? map.get(s.charAt(i + 1)) : 0;
+     int total =0;
+     int maxfar =0;
 
-            if (curr < next) {
-                result -= curr;
-            } else {
-                result += curr;
-            }
+     for(int i = s.length()-1; i>=0; i--){
+        int current =integer[s.charAt(i) -'A'];
+        if(current < maxfar){
+            total -= current;
         }
-
-        return result;
+        else{
+            total += current;
+            maxfar = current;
+        } 
+        
+          
+        }
+    return total;
     }
 }
