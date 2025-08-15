@@ -134,6 +134,7 @@
 | [0070-climbing-stairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -275,6 +277,7 @@
 | [0206-reverse-linked-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
