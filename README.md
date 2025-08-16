@@ -144,6 +144,7 @@
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1448-maximum-69-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -228,6 +229,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
