@@ -26,6 +26,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -141,6 +142,7 @@
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0867-new-21-game) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
+| [0679-24-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
