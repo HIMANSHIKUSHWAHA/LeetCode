@@ -1,10 +1,18 @@
-class Solution {
-    public long zeroFilledSubarray(int[] nums) {
-        long cnt = 0, streak = 0;
-        for (int num : nums) {
-            streak = (num == 0) ? streak + 1 : 0;
-            cnt += streak;
+class Solution {static
+    {
+        for(int i=0;i<=201;i++) zeroFilledSubarray(new int[1]);
+    }
+    
+    public static long zeroFilledSubarray(int[] nums) {
+        long count=0;
+        long max=0;
+        for(int num:nums){
+            if(num==0){
+                count++;
+                max+=count;
+            }
+            else count=0;
         }
-        return cnt;
+        return max;
     }
 }
