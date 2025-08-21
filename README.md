@@ -37,6 +37,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -162,6 +163,7 @@
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
@@ -279,6 +281,7 @@
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -383,6 +386,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0143-reorder-list) |
+| [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
@@ -504,4 +508,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
