@@ -61,6 +61,7 @@
 | [2689-rearranging-fruits](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -164,6 +165,7 @@
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
