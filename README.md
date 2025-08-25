@@ -25,6 +25,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0679-24-game) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -360,6 +362,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
