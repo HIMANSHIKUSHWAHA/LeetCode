@@ -1,27 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        unordered_map<int, vector<int>> d;
-    
-        for (int r = 0; r < m; ++r) {
-            for (int c = 0; c < n; ++c) {
-                d[r - c].push_back(grid[r][c]);
+        map<int,vector<int>>mpp;
+        int n = grid.size();
+
+        for(int i = 0; i < n ;i++){
+            for(int j = 0 ;j < n;j++){
+                mpp[i-j].push_back(grid[i][j]);
             }
         }
-    
-        for (auto& pair : d) {
-            if (pair.first >= 0) {
-                sort(pair.second.begin(), pair.second.end());
-            } else {
-                sort(pair.second.rbegin(), pair.second.rend());
+
+        for(auto &it : mpp){
+            if(it.first < 0){
+                sort(begin(it.second),end(it.second));
+            }
+            else{
+                sort(begin(it.second),end(it.second),greater<int>());
             }
         }
-    
-        for (int r = 0; r < m; ++r) {
-            for (int c = 0; c < n; ++c) {
-                grid[r][c] = d[r - c].back();
-                d[r - c].pop_back();
+
+        for(int i = n-1;i >=0;i--){
+            for(int j = n-1;j >=0 ;j--){
+                grid[i][j] = mpp[i-j].back();
+                mpp[i-j].pop_back();
             }
         }
 
