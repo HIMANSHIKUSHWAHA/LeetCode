@@ -175,6 +175,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3830-find-closest-person](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
