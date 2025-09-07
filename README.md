@@ -40,6 +40,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -169,6 +170,7 @@
 | [0867-new-21-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1448-maximum-69-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
