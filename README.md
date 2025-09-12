@@ -35,6 +35,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1067-campus-bikes-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1098-largest-unique-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1098-largest-unique-number) |
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -103,6 +104,7 @@
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1098-largest-unique-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1098-largest-unique-number) |
 | [1125-design-file-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1125-design-file-system) |
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -226,6 +228,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1098-largest-unique-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1098-largest-unique-number) |
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
