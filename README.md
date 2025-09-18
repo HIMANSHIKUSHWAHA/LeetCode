@@ -123,6 +123,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -451,6 +452,7 @@
 | [0303-range-sum-query-immutable](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1125-design-file-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1125-design-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -520,6 +522,7 @@
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2429-design-a-food-rating-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -580,6 +583,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
