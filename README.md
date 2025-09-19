@@ -87,6 +87,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [2689-rearranging-fruits](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -208,6 +210,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -453,6 +457,7 @@
 | [1125-design-file-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1125-design-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
