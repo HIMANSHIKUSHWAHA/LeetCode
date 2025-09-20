@@ -89,6 +89,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -164,6 +166,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -460,6 +463,7 @@
 | [2429-design-a-food-rating-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -593,6 +597,7 @@
 | [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -616,6 +621,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
