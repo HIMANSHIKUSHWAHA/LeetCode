@@ -104,6 +104,7 @@
 | [0141-linked-list-cycle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,6 +184,7 @@
 | [0069-sqrtx](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
@@ -276,6 +278,7 @@
 | [0038-count-and-say](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [1006-vowel-spellchecker](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1006-vowel-spellchecker) |
