@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -352,6 +353,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0416-partition-equal-subset-sum](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0416-partition-equal-subset-sum) |
