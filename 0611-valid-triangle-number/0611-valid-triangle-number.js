@@ -1,18 +1,20 @@
-const triangleNumber = nums => {
-  nums.sort((a, b) => a - b);
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
 
-  let count = 0;
-
-  for (let k = nums.length - 1; k > 1; k--) {
-    for (let i = 0, j = k - 1; i < j;) {
-      if (nums[i] + nums[j] > nums[k]) {
-        count += j - i;
-        j--;
-      } else {
-        i++;
-      }
+function triangleNumber(nums) {
+    nums.sort((a, b) => a - b);
+    let count = 0;
+    const n = nums.length;
+    for (let i = n-1; i > 1; i--) {
+        let left = 0, right = i-1;
+        while (left < right) {
+            if (nums[left] + nums[right] > nums[i]) {
+                count += right - left;
+                right--;
+            } else left++;
+        }
     }
-  }
-
-  return count;
-};
+    return count;
+}
