@@ -40,6 +40,7 @@
 | [1067-campus-bikes-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1098-largest-unique-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1098-largest-unique-number) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -368,6 +369,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1013-fibonacci-number) |
 | [1067-campus-bikes-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
