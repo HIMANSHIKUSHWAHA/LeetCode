@@ -138,6 +138,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3678-design-task-manager](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -309,6 +310,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3797-design-spreadsheet](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -321,6 +323,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -537,6 +540,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
