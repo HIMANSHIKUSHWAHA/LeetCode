@@ -249,6 +249,7 @@
 | [0165-compare-version-numbers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -295,6 +296,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
+| [0696-count-binary-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1006-vowel-spellchecker](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1125-design-file-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1125-design-file-system) |
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
