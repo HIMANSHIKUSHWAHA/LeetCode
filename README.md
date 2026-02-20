@@ -264,6 +264,7 @@
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1098-largest-unique-number) |
@@ -297,6 +298,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0527-word-abbreviation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0527-word-abbreviation) |
 | [0696-count-binary-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0761-special-binary-string) |
 | [1006-vowel-spellchecker](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1125-design-file-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1125-design-file-system) |
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
@@ -566,6 +568,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0761-special-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
