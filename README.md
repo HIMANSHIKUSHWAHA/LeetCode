@@ -197,6 +197,7 @@
 | [0326-power-of-three](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0867-new-21-game) |
@@ -362,6 +363,7 @@
 | [0231-power-of-two](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1067-campus-bikes-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
