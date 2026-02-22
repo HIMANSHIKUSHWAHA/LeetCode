@@ -364,6 +364,7 @@
 | [0342-power-of-four](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1067-campus-bikes-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
