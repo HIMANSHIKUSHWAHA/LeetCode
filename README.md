@@ -125,6 +125,7 @@
 | [1132-before-and-after-puzzle](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1132-before-and-after-puzzle) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1813-maximum-erasure-value](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -306,6 +307,7 @@
 | [1250-longest-common-subsequence](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -367,6 +369,7 @@
 | [0868-binary-gap](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1067-campus-bikes-ii](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -496,6 +499,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Design
 |  |
@@ -685,4 +689,8 @@
 |  |
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
