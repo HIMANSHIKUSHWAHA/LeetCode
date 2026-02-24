@@ -485,6 +485,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -535,6 +536,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -615,6 +617,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0572-subtree-of-another-tree](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HIMANSHIKUSHWAHA/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
 |  |
 | ------- |
